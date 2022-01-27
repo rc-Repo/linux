@@ -1,18 +1,19 @@
-Linux kernel
-============
+hey guys its me linus torvalds, author of the smash hit linux. yes its me you
+can look at the url of the repo and the thingy at the top of the files it
+proves its 100% me.
 
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
+i deleted linux because i hate it now i think it sucks. you should go use this
+awesome os its called windows xp i just discovered it its great
 
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
+--- paxxs
 
-    https://www.kernel.org/doc/html/latest/
+嘿，伙计们，这是我，Linus Torvalds，是深受欢迎和非常成功的Linux系统的作者。
+是的，是我，你可以看一下repo的网址和顶部的那个小东西，它可以证明100%是我。
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the Restructured Text markup notation.
+我删除了linux，因为我讨厌它，现在我认为它很糟糕。
+你应该去使用那个很棒的操作系统，它叫 Windows xp，我刚刚发现它超 awesome。
 
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+btw, fu__ NVIDIA !
+
+
+
